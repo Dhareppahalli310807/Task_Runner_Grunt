@@ -1,0 +1,21 @@
+{
+  "name": "taskrunner-grunt",
+  "version": "1.0.0",
+  "description": "its a task runner application using grunt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DhareppaHalli310807"
+  },
+  "author": "Dhareppa",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.6.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "^5.2.2"
+  }
+}
